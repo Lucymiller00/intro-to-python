@@ -86,6 +86,6 @@
 # Type your name as a comment on the next line.
 
 # Hint: if you're on a Mac, type opt + 3 to get a #
-
+# Lucy
 # Now open up 011_identity.py and get started with some
 # real code!
